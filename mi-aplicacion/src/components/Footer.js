@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => (
   <footer>
-    <p>&copy; 2025 Mi Aplicación</p>
+    <p>&copy; 2025 Checklist</p>
   </footer>
 );
 
